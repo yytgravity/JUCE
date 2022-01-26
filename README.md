@@ -1,4 +1,4 @@
-![alt text](https://assets.juce.com/juce/JUCE_banner_github.png "JUCE")
+![alt text](https://assets.juce.com/juce/JUCE_banner_github.png "JUCE") @2333333
 
 JUCE is an open-source cross-platform C++ application framework for creating high quality
 desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
